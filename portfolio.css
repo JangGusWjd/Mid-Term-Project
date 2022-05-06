@@ -2,10 +2,14 @@ body {
   all: unset;
 }
 
-p {
+/* p {
   font-size: 30px;
   font-weight: 1000;
   color: rgb(75, 51, 7);
+} */
+span {
+  color: rgb(75, 51, 7);
+  font-weight: bold;
 }
 
 iframe {
@@ -122,4 +126,11 @@ iframe {
   padding: 10px;
   margin: 30px 20px 20px 20px;
   background-color: rgba(189, 139, 31, 0.479);
+}
+
+#video-name {
+  margin-bottom: 5px;
+  font-size: 30px;
+  font-weight: 1000;
+  color: rgb(75, 51, 7);
 }
