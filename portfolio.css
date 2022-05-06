@@ -2,10 +2,15 @@ body {
   all: unset;
 }
 
-P {
+p {
   font-size: 30px;
   font-weight: 1000;
   color: rgb(75, 51, 7);
+}
+
+iframe {
+  display: flex;
+  flex-direction: row;
 }
 
 .top {
