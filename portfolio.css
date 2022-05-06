@@ -134,3 +134,8 @@ iframe {
   font-weight: 1000;
   color: rgb(75, 51, 7);
 }
+
+#youtube {
+  display: flex;
+  flex-direction: row;
+}
